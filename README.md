@@ -53,6 +53,3 @@ If you found this code helpful please consider citing,
 ```
 Kollipara, V.N.H., Kollipara, V.N.D.P. (2022). Residual Learning Based Approach for Multi-class Classification of Skin Lesion Using Deep Convolutional Neural Network. In: Guru, D.S., Y. H., S.K., K., B., Agrawal, R.K., Ichino, M. (eds) Cognition and Recognition. ICCR 2021. Communications in Computer and Information Science, vol 1697. Springer, Cham. https://doi.org/10.1007/978-3-031-22405-8_27
 ```
-
-### ⚖️ License
-Copyright © 2023 Hemanth Kollipara, Pavithra Kollipara
